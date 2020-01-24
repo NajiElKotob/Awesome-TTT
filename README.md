@@ -9,5 +9,9 @@
 * [Short URL](https://www.shorturl.at/shortener.php)
 * [Tiny URL](https://tinyurl.com/)
 
+# Online Forms
+* [Microsoft Forms](https://forms.microsoft.com/) 
+* [Google Forms](https://docs.google.com/forms)
+
 # Ideas and Tools
 * [8 Tools for Trainers](https://langevin.com/resources/8-tools-for-trainers/)
