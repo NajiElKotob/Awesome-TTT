@@ -5,6 +5,9 @@
 * [Ziteboard](https://app.ziteboard.com/)
 * [Web Whiteboard](https://www.webwhiteboard.com/)
 
+# Flowcharts and Wireframes
+* [Whimsical](https://whimsical.com) - Communicate visually at the speed of thought – collaborative flowcharts, wireframes, sticky notes, and mind maps.
+
 # URL shortener
 * [Short URL](https://www.shorturl.at/shortener.php)
 * [Tiny URL](https://tinyurl.com/)
