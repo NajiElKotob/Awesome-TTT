@@ -8,6 +8,8 @@
 
 ## Gamification
 * [Kahoot](http://kahoot.com/)
+* [Menti](https://www.menti.com/) - Mentimeter
+
 
 ## Learning Objectives
 * [Writing learning outcomes and course objectives](https://blogs.uis.edu/colrs/2019/09/13/writing-learning-outcomes-and-course-objectives/)
