@@ -12,6 +12,12 @@
 ## Learning Objectives
 * [Writing learning outcomes and course objectives](https://blogs.uis.edu/colrs/2019/09/13/writing-learning-outcomes-and-course-objectives/)
 
+## AGES
+### Attention
+### Generation
+### Emotion
+### Spacing
+
 ## Flowcharts and Wireframes
 * [Whimsical](https://whimsical.com) - Communicate visually at the speed of thought – collaborative flowcharts, wireframes, sticky notes, and mind maps.
 
