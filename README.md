@@ -13,6 +13,7 @@
 * [Whimsical](https://whimsical.com) - Communicate visually at the speed of thought – collaborative flowcharts, wireframes, sticky notes, and mind maps.
 
 ## URL shortener
+* [Bitly](https://www.bitly.com)
 * [Short URL](https://www.shorturl.at/shortener.php)
 * [Tiny URL](https://tinyurl.com/)
 
