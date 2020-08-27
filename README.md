@@ -39,3 +39,4 @@
 
 ## Ideas and Tools
 * [8 Tools for Trainers](https://langevin.com/resources/8-tools-for-trainers/)
+* [Captioner](https://webcaptioner.com/captioner) - Supporting Arabic
