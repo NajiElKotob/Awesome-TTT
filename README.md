@@ -9,6 +9,7 @@
 ## Gamification
 * [Kahoot](http://kahoot.com/)
 * [Menti](https://www.menti.com/) - Mentimeter
+* [Slido](https://www.sli.do/)
 
 
 ## Learning Objectives
@@ -35,6 +36,7 @@
 
 ## Free Stock Photos and Images 
 * [Unsplash](https://unsplash.com/) - Photos for everyone
+
 
 
 ## Ideas and Tools
