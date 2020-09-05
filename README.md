@@ -33,7 +33,8 @@
 
 ## Free Stock Photos and Images 
 * [Unsplash](https://unsplash.com/) - Photos for everyone
-* [Pixabay](https://pixabay.com/)
+* [Pixabay](https://pixabay.com/) - Stunning free images & royalty free stock
+* [Freepik](https://www.freepik.com/) - Graphic resources for everyone
 
 ## Ideas and Tools
 * [8 Tools for Trainers](https://langevin.com/resources/8-tools-for-trainers/)
