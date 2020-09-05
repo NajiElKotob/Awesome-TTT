@@ -27,7 +27,6 @@
 ## QR
 * [QR Tiger](https://www.qrcode-tiger.com/) - Make a static QR code with logo for Free!
 
-
 ## Online Forms
 * [Microsoft Forms](https://forms.microsoft.com/) 
 * [Google Forms](https://docs.google.com/forms)
@@ -38,5 +37,6 @@
 
 ## Ideas and Tools
 * [8 Tools for Trainers](https://langevin.com/resources/8-tools-for-trainers/)
+* [Kaspersky - Threat Intelligence Portal](https://opentip.kaspersky.com/) 
 * [Captioner](https://webcaptioner.com/captioner) - Supporting Arabic
 
