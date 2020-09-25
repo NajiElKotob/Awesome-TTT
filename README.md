@@ -41,3 +41,5 @@
 * [Kaspersky - Threat Intelligence Portal](https://opentip.kaspersky.com/) 
 * [Captioner](https://webcaptioner.com/captioner) - Supporting Arabic
 
+## Articles
+* [How to Plan a Training Class](https://ozar.me/2014/07/plan-training-class/) - Brent Ozar
