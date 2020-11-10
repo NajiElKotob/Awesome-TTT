@@ -23,6 +23,7 @@
 * [Bitly](https://www.bitly.com)
 * [Short URL](https://www.shorturl.at/shortener.php)
 * [Tiny URL](https://tinyurl.com/)
+* [Tiny CC](https://www.tiny.cc/)
 
 ## QR
 * [QR Tiger](https://www.qrcode-tiger.com/) - Make a static QR code with logo for Free!
