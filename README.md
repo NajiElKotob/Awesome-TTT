@@ -39,7 +39,7 @@
 
 ## Ideas and Tools
 * [8 Tools for Trainers](https://langevin.com/resources/8-tools-for-trainers/)
-* [Kaspersky - Threat Intelligence Portal](https://opentip.kaspersky.com/) 
+* [Kaspersky - Threat Intelligence Portal](https://opentip.kaspersky.com/) - Check any suspicious files, file hashes, IP addresses, and web addresses to validate and prioritize associated security alerts, and ensure timely response to threats.
 * [Captioner](https://webcaptioner.com/captioner) - Supporting Arabic
 
 ## Articles
