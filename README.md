@@ -15,6 +15,9 @@
 ## Learning Objectives
 * [Writing learning outcomes and course objectives](https://blogs.uis.edu/colrs/2019/09/13/writing-learning-outcomes-and-course-objectives/)
 
+## Audience
+* [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) - Get a feeling of how it is to have a color vision handicap.
+
 ## Flowcharts and Wireframes
 * [Diagrams (Draw.io)](https://app.diagrams.net/) - diagrams.net (formerly draw.io) is free online diagram software.
 * [Whimsical](https://whimsical.com) - Communicate visually at the speed of thought – collaborative flowcharts, wireframes, sticky notes, and mind maps.
