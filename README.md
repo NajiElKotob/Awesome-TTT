@@ -47,3 +47,6 @@
 
 ## Articles
 * [How to Plan a Training Class](https://ozar.me/2014/07/plan-training-class/) - Brent Ozar
+
+## Videos
+* [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
