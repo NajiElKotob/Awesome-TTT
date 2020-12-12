@@ -50,3 +50,4 @@
 
 ## Videos
 * [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
+* [The best teacher I never had](https://www.youtube.com/watch?v=WOoJh6oYAXE)
