@@ -58,6 +58,7 @@
 ## Articles
 * [How to Plan a Training Class](https://ozar.me/2014/07/plan-training-class/) - Brent Ozar
 * [Using student-centered pedagogy to battle short attention spans](https://resilienteducator.com/classroom-resources/short-attention-span-class-structure/) - Educational research has found that students focus on a single activity from 10-18 minutes, between seven and eight minutes, or even as low as two minutes. 
+* [OECD Future of Education and Skills 2030](https://www.oecd.org/education/2030-project/)
 
 ## Videos
 * [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
