@@ -25,6 +25,7 @@
 ### Flowcharts and Wireframes
 * [Diagrams (Draw.io)](https://app.diagrams.net/) - diagrams.net (formerly draw.io) is free online diagram software.
 * [Whimsical](https://whimsical.com) - Communicate visually at the speed of thought – collaborative flowcharts, wireframes, sticky notes, and mind maps.
+* [ZoomIt – A great Zoom tool for presentations](https://hrushikeshzadgaonkar.wordpress.com/2010/05/23/zoomit-a-great-zoom-tool-for-presentations/)
 
 ### URL shortener
 * [Bitly](https://www.bitly.com)
