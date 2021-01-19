@@ -12,8 +12,9 @@
 * [Slido](https://www.sli.do/)
 * [Quizizz](https://quizizz.com/) 
 
-## Learning Objectives
-* [Writing learning outcomes and course objectives](https://blogs.uis.edu/colrs/2019/09/13/writing-learning-outcomes-and-course-objectives/)
+## Learning Outcomes
+* [Writing learning outcomes and course objectives](https://blogs.uis.edu/colrs/2019/09/13/writing-learning-outcomes-and-course-objectives/) - University of Illinois Springfield
+* [Writing Student Learning Outcomes](https://assessment.provost.wisc.edu/student-learning-outcomes/writing-student-learning-outcomes/) - University of Wisconsin-Madison
 
 ## Audience
 * [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) - Get a feeling of how it is to have a color vision handicap.
