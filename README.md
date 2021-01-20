@@ -17,7 +17,7 @@
 * [Writing learning outcomes and course objectives](https://blogs.uis.edu/colrs/2019/09/13/writing-learning-outcomes-and-course-objectives/) - University of Illinois Springfield
 * [Writing Student Learning Outcomes](https://assessment.provost.wisc.edu/student-learning-outcomes/writing-student-learning-outcomes/) - University of Wisconsin-Madison
 * [Examples of Learning Outcomes Statements](https://web.uri.edu/assessment/examples-of-learning-outcomes-statements/) - University of Rhode Island
-* [Using Bloom’s Taxonomy to Write Effective Learning Objectives](https://tips.uark.edu/using-blooms-taxonomy/) - University of Arkansas
+* [Using Bloom’s Taxonomy to Write Effective Learning Objectives](https://tips.uark.edu/using-blooms-taxonomy/) - University of Arkansas :star:
 
 ## Audience
 * [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) - Get a feeling of how it is to have a color vision handicap.
