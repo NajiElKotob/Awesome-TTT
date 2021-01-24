@@ -72,5 +72,6 @@
 * [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
 * [The best teacher I never had](https://www.youtube.com/watch?v=WOoJh6oYAXE) - A video tribute from Bill Gates to Richard Feynman: phenomenal explainer, amazing scientist, and all-around colorful guy.
 
-## Terms
+## Mind
 * [Thought process](https://www.macmillandictionary.com/dictionary/british/thought-process) is the way in which your mind works, or the process of thinking about something.
+* [The Magical Mystery Four: How is Working Memory Capacity Limited, and Why?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2864034/)
