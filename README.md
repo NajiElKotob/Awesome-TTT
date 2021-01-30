@@ -1,5 +1,9 @@
 # Awesome Train the Trainer
 
+`
+If you cannot explain something in simple terms, you don't understand it. The best way to learn is to teach. The ultimate test of your knowledge is your ability to convey it to another. 
+-- Professor Richard Feynman
+`
 
 ## Whiteboards
 * [Ziteboard](https://app.ziteboard.com/) - ziteboard.com
