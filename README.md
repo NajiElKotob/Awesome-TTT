@@ -65,6 +65,10 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Pixabay](https://pixabay.com/) - Stunning free images & royalty free stock
 * [Freepik](https://www.freepik.com/) - Graphic resources for everyone
 
+### Colors
+* [Color Name](https://www.color-name.com/) - Find color by name or hex
+
+
 -----
 
 ## Articles
