@@ -55,6 +55,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Kaspersky - Threat Intelligence Portal](https://opentip.kaspersky.com/) - Check any suspicious files, file hashes, IP addresses, and web addresses to validate and prioritize associated security alerts, and ensure timely response to threats.
 * [Captioner](https://webcaptioner.com/captioner) - Supporting Arabic
 * [YouTube Downloader](https://yt1s.com/)
+* [Fast](https://fast.com/) - How fast is your download speed? In seconds, FAST.com's simple Internet speed test will estimate your ISP speed.
 
 ----
 
