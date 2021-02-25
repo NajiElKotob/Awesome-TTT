@@ -44,6 +44,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 
 ### QR
 * [QR Tiger](https://www.qrcode-tiger.com/) - Make a static QR code with logo for Free!
+* [QR Code Monkey](https://www.qrcode-monkey.com/#vcard) vcard
 
 ### Online Forms
 * [Microsoft Forms](https://forms.microsoft.com/) 
