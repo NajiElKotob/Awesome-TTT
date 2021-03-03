@@ -58,6 +58,9 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [YouTube Downloader](https://yt1s.com/)
 * [Fast](https://fast.com/) - How fast is your download speed? In seconds, FAST.com's simple Internet speed test will estimate your ISP speed.
 
+## Distance Learning
+* [Distance learning solutions](https://en.unesco.org/covid19/educationresponse/solutions) - unesco.org
+
 ----
 
 ## Resources
