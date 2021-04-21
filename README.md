@@ -9,6 +9,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Ziteboard](https://app.ziteboard.com/) - ziteboard.com
 * [Web Whiteboard](https://www.webwhiteboard.com/) - webwhiteboard.com
 * [AWW Board](https://awwapp.com/) - awwapp.com
+* [Whiteboard.fi](https://whiteboard.fi) - whiteboard.fi (a Kahoot! company) 🌟
 
 ## Gamification
 * [Kahoot](http://kahoot.com/)
