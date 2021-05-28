@@ -35,7 +35,8 @@ If you cannot explain something in simple terms, you don't understand it. The be
 ### Flowcharts and Wireframes
 * [Diagrams (Draw.io)](https://app.diagrams.net/) - diagrams.net (formerly draw.io) is free online diagram software.
 * [Whimsical](https://whimsical.com) - Communicate visually at the speed of thought – collaborative flowcharts, wireframes, sticky notes, and mind maps.
-* [ZoomIt – A great Zoom tool for presentations](https://hrushikeshzadgaonkar.wordpress.com/2010/05/23/zoomit-a-great-zoom-tool-for-presentations/)
+* [](https://miro.com) - miro.com
+
 
 ### URL shortener
 * [Bitly](https://www.bitly.com)
@@ -58,6 +59,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Captioner](https://webcaptioner.com/captioner) - Supporting Arabic
 * [YouTube Downloader](https://yt1s.com/)
 * [Fast](https://fast.com/) - How fast is your download speed? In seconds, FAST.com's simple Internet speed test will estimate your ISP speed.
+* [ZoomIt – A great Zoom tool for presentations](https://hrushikeshzadgaonkar.wordpress.com/2010/05/23/zoomit-a-great-zoom-tool-for-presentations/)
 
 ## Distance Learning
 * [Distance learning solutions](https://en.unesco.org/covid19/educationresponse/solutions) - unesco.org
