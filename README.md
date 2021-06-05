@@ -15,6 +15,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Kahoot](http://kahoot.com/)
 * [Menti](https://www.menti.com/) - Mentimeter
 * [Slido](https://www.sli.do/)
+* [Poll Everywhere](https://www.polleverywhere.com/)
 * [Quizizz](https://quizizz.com/) 
 
 ## Learning Outcomes
