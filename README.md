@@ -38,6 +38,8 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Whimsical](https://whimsical.com) - Communicate visually at the speed of thought – collaborative flowcharts, wireframes, sticky notes, and mind maps.
 * [miro](https://miro.com) - miro.com
 
+### Collaboration
+* [Trello](https://trello.com) - trello.com
 
 ### URL shortener
 * [Bitly](https://www.bitly.com)
@@ -53,6 +55,8 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Microsoft Forms](https://forms.microsoft.com/) 
 * [Google Forms](https://docs.google.com/forms)
 
+
+-----
 
 ## Ideas and Tools
 * [8 Tools for Trainers](https://langevin.com/resources/8-tools-for-trainers/)
