@@ -72,6 +72,11 @@ If you cannot explain something in simple terms, you don't understand it. The be
 ## Distance Learning
 * [Distance learning solutions](https://en.unesco.org/covid19/educationresponse/solutions) - unesco.org
 
+## Skills Assessment
+* [TestGorilla](https://www.testgorilla.com/) - testgorilla.com
+* [iMocha](https://www.imocha.io/) - imocha.io
+
+
 ----
 
 ## Resources
