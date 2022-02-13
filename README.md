@@ -56,7 +56,9 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Microsoft Forms](https://forms.microsoft.com/) 
 * [Google Forms](https://docs.google.com/forms)
 
-### Timers
+### Tools
+#### Timer
+* [Calculator.tips Stopwatch](http://calculator.tips/stopwatch) - calculator.tips
 * [Google Timer 5min](https://www.google.com/search?q=google+timer+5+minutes)
 * [Google Timer 10min](https://www.google.com/search?q=google+timer+10+minutes)
 -----
