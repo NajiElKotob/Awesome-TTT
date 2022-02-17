@@ -58,7 +58,8 @@ If you cannot explain something in simple terms, you don't understand it. The be
 
 ### Tools
 #### Timer
-* [Calculator.tips Stopwatch](http://calculator.tips/stopwatch) - calculator.tips
+* [Stopwatch ⏱](http://calculator.tips/stopwatch) - calculator.tips
+* [Timer ⏳](http://calculator.tips/timer) - calculator.tips
 * [Google Timer 5min](https://www.google.com/search?q=google+timer+5+minutes)
 * [Google Timer 10min](https://www.google.com/search?q=google+timer+10+minutes)
 -----
