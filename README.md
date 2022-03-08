@@ -64,6 +64,10 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Google Timer 10min](https://www.google.com/search?q=google+timer+10+minutes)
 -----
 
+## Hardware
+* [Stream Deck](https://www.pcworld.com/article/620624/s-2.html) - pcworld.com
+
+-----
 ## Ideas and Tools
 * [8 Tools for Trainers](https://langevin.com/resources/8-tools-for-trainers/)
 * [Kaspersky - Threat Intelligence Portal](https://opentip.kaspersky.com/) - Check any suspicious files, file hashes, IP addresses, and web addresses to validate and prioritize associated security alerts, and ensure timely response to threats.
