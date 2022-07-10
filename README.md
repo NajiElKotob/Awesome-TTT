@@ -13,8 +13,8 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Whiteboard.fi](https://whiteboard.fi) - whiteboard.fi (a Kahoot! company) 🌟
 
 ## Gamification
-* [Kahoot](http://kahoot.com/)
-* [Menti](https://www.menti.com/) - Mentimeter
+* [Kahoot](http://kahoot.com/) 🌟
+* [Mentimeter](https://www.mentimeter.com/) ⭐ - Menti 
 * [Slido](https://www.sli.do/)
 * [Poll Everywhere](https://www.polleverywhere.com/)
 * [Quizizz](https://quizizz.com/) 
