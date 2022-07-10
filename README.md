@@ -27,7 +27,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Using Bloom’s Taxonomy to Write Effective Learning Objectives](https://tips.uark.edu/using-blooms-taxonomy/) - University of Arkansas :star:
     * [Bloom’s Taxonomy Verb Chart](https://tips.uark.edu/blooms-taxonomy-verb-chart/)
     
-## Audience
+## Colors
 * [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) - Get a feeling of how it is to have a color vision handicap.
 
 -----
