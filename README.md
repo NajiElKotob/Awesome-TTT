@@ -9,6 +9,9 @@ If you cannot explain something in simple terms, you don't understand it. The be
 ## Engagement Strategies
 * Problem-based Learning
 * Role playing
+* Gamification
+* Simulations
+
 
 ## Gamification
 * [Kahoot](http://kahoot.com/) 🌟
