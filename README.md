@@ -7,11 +7,11 @@ If you cannot explain something in simple terms, you don't understand it. The be
 {Awesome Works in Progress}
 
 ## Engagement Strategies
-* Problem-based Learning
+* Problem-based Learning | Connect learning to the real world
 * Role playing
 * Gamification
 * Simulations
-
+* Group work and collaboration
 
 ## Gamification
 * [Kahoot](http://kahoot.com/) 🌟
