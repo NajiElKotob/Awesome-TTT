@@ -13,6 +13,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * Simulations
 * Group work and collaboration
 * Brain breaks
+* Be personable | Know your students and letting them get to know you.
 
 ## Gamification
 * [Kahoot](http://kahoot.com/) 🌟
