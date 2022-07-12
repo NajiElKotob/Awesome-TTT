@@ -15,6 +15,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * Brain breaks
 * Be personable | Know your students and letting them get to know you
 * Encourage friendly competition
+* Laugh together
 
 ## Gamification
 * [Kahoot](http://kahoot.com/) 🌟
