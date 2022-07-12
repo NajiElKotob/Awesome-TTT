@@ -13,6 +13,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * Simulations
 * Group work and collaboration
 * Brain breaks
+* Index Card 🟥🟨🟩
 * Be personable | Know your students and letting them get to know you.
 * Think-pair-share (TPS) | Collaborative learning strategy where students work together to solve a problem or answer a question about an assigned reading.
 * Encourage friendly competition
