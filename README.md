@@ -12,6 +12,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * Gamification
 * Simulations
 * Group work and collaboration
+* Brain breaks
 
 ## Gamification
 * [Kahoot](http://kahoot.com/) 🌟
