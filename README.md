@@ -12,6 +12,8 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * Gamification
 * Simulations
 * Group work and collaboration
+* Content recall
+* Student Presentation
 * Brain breaks
 * Index Card 🟥🟨🟩
 * Be personable | Know your students and letting them get to know you.
