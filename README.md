@@ -28,6 +28,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Poll Everywhere](https://www.polleverywhere.com/)
 * [Quizizz](https://quizizz.com/) 
 * [StreamAlive](https://www.streamalive.com/) - streamalive.com
+* [Wheel of Names](https://wheelofnames.com/) ⭕ - wheelofnames.com
 
 ## Whiteboards
 * [Ziteboard](https://app.ziteboard.com/) - ziteboard.com
