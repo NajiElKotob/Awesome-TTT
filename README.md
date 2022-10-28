@@ -91,7 +91,8 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [YouTube Downloader](https://yt1s.com/)
 * [Filmora FREE Online Video Trimmer](https://filmora.wondershare.com/video-trimmer/) - filmora.wondershare.com | Cut and Trim Videos Online Instantly
 * [Fast](https://fast.com/) - How fast is your download speed? In seconds, FAST.com's simple Internet speed test will estimate your ISP speed.
-* [ZoomIt – A great Zoom tool for presentations](https://hrushikeshzadgaonkar.wordpress.com/2010/05/23/zoomit-a-great-zoom-tool-for-presentations/)
+* [ZoomIt – A great Zoom tool for presentations](https://hrushikeshzadgaonkar.wordpress.com/2010/05/23/zoomit-a-great-zoom-tool-for-presentations/) 🔍
+   * [ZoomIt – Download](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit) 🔽
 * [UnRAR and RAR Viewer](https://unrar.flowsoft7.com/) - unrar.flowsoft7.com
 
 
