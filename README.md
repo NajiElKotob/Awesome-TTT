@@ -94,7 +94,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [ZoomIt – A great Zoom tool for presentations](https://hrushikeshzadgaonkar.wordpress.com/2010/05/23/zoomit-a-great-zoom-tool-for-presentations/) 🔍
    * [ZoomIt – Download](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit) 🔽
 * [UnRAR and RAR Viewer](https://unrar.flowsoft7.com/) - unrar.flowsoft7.com
-
+* [PDF to JPG](https://www.adobe.com/acrobat/online/pdf-to-jpg.html) - adobe.com
 
 ## Distance Learning
 * [Distance learning solutions](https://en.unesco.org/covid19/educationresponse/solutions) - unesco.org
