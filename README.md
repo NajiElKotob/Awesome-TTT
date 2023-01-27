@@ -71,12 +71,16 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Microsoft Forms](https://forms.microsoft.com/) 
 * [Google Forms](https://docs.google.com/forms)
 
-### Tools
-#### Timer
+### Timer
 * [Stopwatch ⏱](http://calculator.tips/stopwatch) - calculator.tips
 * [Timer ⏳](http://calculator.tips/timer) - calculator.tips
 * [Google Timer 5min](https://www.google.com/search?q=google+timer+5+minutes)
 * [Google Timer 10min](https://www.google.com/search?q=google+timer+10+minutes)
+
+### AI
+#### Text to Speech
+* [NaturalReader](https://www.naturalreaders.com/online/) - naturalreaders.com | The #1 text to speech solution for personal, commercial, and educational use
+
 -----
 
 ## Hardware
