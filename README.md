@@ -99,6 +99,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
    * [ZoomIt – Download](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit) 🔽
 * [UnRAR and RAR Viewer](https://unrar.flowsoft7.com/) - unrar.flowsoft7.com
 * [PDF to JPG](https://www.adobe.com/acrobat/online/pdf-to-jpg.html) - adobe.com
+* [Print Friendly](https://www.printfriendly.com/) - printfriendly.com | Make any web page Print Friendly & PDF
 
 ## Distance Learning
 * [Distance learning solutions](https://en.unesco.org/covid19/educationresponse/solutions) - unesco.org
