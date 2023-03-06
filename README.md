@@ -30,6 +30,14 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [StreamAlive](https://www.streamalive.com/) - streamalive.com
 * [Wheel of Names](https://wheelofnames.com/) ⭕ - wheelofnames.com
 
+## Learning Delivery Methods
+* Face-to-face training
+* Virtual classrooms
+* eLearning
+* Mobile learning
+* Blended learning
+
+
 ## Whiteboards
 * [Ziteboard](https://app.ziteboard.com/) - ziteboard.com
 * [Web Whiteboard](https://www.webwhiteboard.com/) - webwhiteboard.com
