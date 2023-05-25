@@ -134,6 +134,8 @@ If you cannot explain something in simple terms, you don't understand it. The be
 
 
 -----
+## Terms
+* Freshman, Sophomore, Junior, Senior
 
 ## Articles
 * [How to Plan a Training Class](https://ozar.me/2014/07/plan-training-class/) - Brent Ozar
