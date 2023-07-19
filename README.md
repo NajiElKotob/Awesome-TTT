@@ -70,6 +70,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Short URL](https://www.shorturl.at/shortener.php)
 * [Tiny URL](https://tinyurl.com/)
 * [Tiny CC](https://www.tiny.cc/)
+* [Cuttly](https://cutt.ly)
 
 ### QR
 * [QR Tiger](https://www.qrcode-tiger.com/) - Make a static QR code with logo for Free!
