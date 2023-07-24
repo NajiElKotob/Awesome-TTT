@@ -113,7 +113,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Stream Deck](https://www.pcworld.com/article/620624/s-2.html) - pcworld.com
 
 -----
-## Ideas and Tools
+## Tools and Utilities
 * [Snipping Tool](https://www.youtube.com/watch?v=fWNA2js9JGc) ⭐ - How to use Snipping Tool in Windows 10
 * [8 Tools for Trainers](https://langevin.com/resources/8-tools-for-trainers/)
 * [Kaspersky - Threat Intelligence Portal](https://opentip.kaspersky.com/) - Check any suspicious files, file hashes, IP addresses, and web addresses to validate and prioritize associated security alerts, and ensure timely response to threats.
