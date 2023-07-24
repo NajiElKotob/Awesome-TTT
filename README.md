@@ -110,6 +110,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [PDF to JPG](https://www.adobe.com/acrobat/online/pdf-to-jpg.html) - adobe.com
 * [Print Friendly](https://www.printfriendly.com/) - printfriendly.com | Make any web page Print Friendly & PDF
 * [DownGit](https://minhaskamal.github.io/DownGit) - minhaskamal.github.io/DownGit | Create GitHub Resource Download Link
+* [The SketchTheDocs Project](https://sketchthedocs.dev/) - sketchthedocs.dev
 
 ## Distance Learning
 * [Distance learning solutions](https://en.unesco.org/covid19/educationresponse/solutions) - unesco.org
