@@ -7,19 +7,19 @@ If you cannot explain something in simple terms, you don't understand it. The be
 {Awesome Works in Progress}
 
 ## Engagement Strategies
-* Problem-based Learning | Connect learning to the real world.
-* Role playing
-* Gamification
-* Simulations
-* Group work and collaboration
-* Content recall
-* Student Presentation
-* Brain breaks
-* Index Card 🟥🟨🟩
-* Be personable | Know your students and letting them get to know you.
-* Think-pair-share (TPS) | Collaborative learning strategy where students work together to solve a problem or answer a question about an assigned reading.
-* Encourage friendly competition
-* Laugh together
+* Problem-based Learning: Learners solve real-world problems, connecting directly with the subject matter.
+* Role Playing: Learners enact scenarios to deepen understanding.
+* Gamification: Incorporating game elements in educational situations to motivate learners.
+* Simulations: Employing virtual or physical models to recreate situations for learning.
+* Group Work and Collaboration: Learners work collaboratively on tasks, promoting teamwork skills.
+* Content Recall: Techniques like quizzes and flashcards to help learners retain information.
+* Learner Presentations: Learners prepare and deliver a presentation on a chosen topic.
+* Brain Breaks: Short breaks to help learners absorb and process information.
+* Index Card Strategies 🟥🟨🟩: Use of color-coded index cards to assess understanding.
+* Be Personable: Building rapport with learners to create a positive learning environment.
+* Think-Pair-Share (TPS): A cooperative learning strategy where learners work together to solve a problem or answer a question.
+* Encourage Friendly Competition: Stimulating healthy rivalry to foster learner engagement.
+* Laugh Together: Sharing humor to create a relaxed, enjoyable learning atmosphere.
 
 ## Gamification
 * [Kahoot](http://kahoot.com/) 🌟
