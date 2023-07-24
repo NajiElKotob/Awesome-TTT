@@ -20,6 +20,23 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * Think-Pair-Share (TPS): A cooperative learning strategy where learners work together to solve a problem or answer a question.
 * Encourage Friendly Competition: Stimulating healthy rivalry to foster learner engagement.
 * Laugh Together: Sharing humor to create a relaxed, enjoyable learning atmosphere.
+* Interactive Multimedia: Using videos, animations, and interactive content to enrich the learning experience.
+* Debates: Learners discuss and defend various viewpoints on a given topic.
+* Peer Teaching: Learners take turns teaching and explaining topics to each other.
+* Field Trips: Venturing outside the learning environment to gain hands-on or real-world experience.
+* Guest Speakers: Inviting experts or people with relevant experiences to share their knowledge.
+* Mind Mapping: Visual representation of information, aiding in understanding and recall.
+* Case Studies: Analysis of real-life scenarios or stories to deepen understanding.
+* Journals and Reflection: Learners document and ponder their learning experiences.
+* Feedback Loops: Regular feedback sessions where learners can voice concerns and share insights.
+* Real-world Application Projects: Assigning projects where learners apply their knowledge in real-world scenarios.
+* Interactive Polls and Quizzes: Using technology to get immediate feedback and engage learners.
+* Storytelling: Using narratives and stories to convey complex ideas in an engaging manner.
+* Collaborative Tools: Use of software or apps that allow learners to collaborate on projects or discussions in real-time.
+* Analogies and Metaphors: Relating new information to concepts learners already understand.
+* Self-paced Learning: Allowing learners to progress through material at their own pace, catering to individual needs.
+* Flipped Classroom: Learners review content at home, using class time for interactive activities.
+* Discussion Boards: Online platforms where learners can discuss and debate topics, fostering community learning.
 
 ## Gamification
 * [Kahoot](http://kahoot.com/) 🌟
