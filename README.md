@@ -162,6 +162,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [OECD Future of Education and Skills 2030](https://www.oecd.org/education/2030-project/)
 
 ## Videos
+* [Udacity Talks Episode 11: Amr Awadallah | CTO, Cloudera ~35min](https://www.youtube.com/watch?v=Q1l1t3UN0Qo) ⭐ - Udacity | Keep Learning
 * [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
 * [Your personality and your brain](https://www.youtube.com/watch?v=8pq_tCgDkT4) - Scott Schwefel | TEDxBrookings
 * [The best teacher I never had](https://www.youtube.com/watch?v=WOoJh6oYAXE) - A video tribute from Bill Gates to Richard Feynman: phenomenal explainer, amazing scientist, and all-around colorful guy.
