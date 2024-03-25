@@ -167,6 +167,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Your personality and your brain](https://www.youtube.com/watch?v=8pq_tCgDkT4) - Scott Schwefel | TEDxBrookings
 * [The best teacher I never had](https://www.youtube.com/watch?v=WOoJh6oYAXE) - A video tribute from Bill Gates to Richard Feynman: phenomenal explainer, amazing scientist, and all-around colorful guy.
 * [How to Make Learning as Addictive as Social Media | TED](https://www.youtube.com/watch?v=P6FORpg0KVo) - Luis von Ahn
+* [Way of Thinking by Richard Feynman](https://www.youtube.com/watch?v=Si6NbKqYEd8)
 
 ## Mind
 * [Thought process](https://www.macmillandictionary.com/dictionary/british/thought-process) is the way in which your mind works, or the process of thinking about something.
