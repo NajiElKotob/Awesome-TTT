@@ -129,8 +129,9 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [DownGit](https://minhaskamal.github.io/DownGit) - minhaskamal.github.io/DownGit | Create GitHub Resource Download Link
 * [The SketchTheDocs Project](https://sketchthedocs.dev/) - sketchthedocs.dev
 
-## Distance Learning
+## Online Learning
 * [Distance learning solutions](https://en.unesco.org/covid19/educationresponse/solutions) - unesco.org
+* [Class Central](https://www.classcentral.com/) - classcentral.com | Find the best courses, wherever they exist
 
 ## Skills Assessment
 * [TestGorilla](https://www.testgorilla.com/) - testgorilla.com
