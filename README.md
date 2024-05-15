@@ -132,6 +132,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 ## Online Learning
 * [Distance learning solutions](https://en.unesco.org/covid19/educationresponse/solutions) - unesco.org
 * [Class Central](https://www.classcentral.com/) - classcentral.com | Find the best courses, wherever they exist
+* [AI for educators](https://learn.microsoft.com/en-us/training/paths/ai-education/) - learn.microsoft.com | This learning path explores the potential of artificial intelligence (AI) in education. It covers a brief history of AI, large language models (LLMs), generative AI, prompt engineering, responsible use of AI, and uses in a class setting. 
 
 ## Skills Assessment
 * [TestGorilla](https://www.testgorilla.com/) - testgorilla.com
