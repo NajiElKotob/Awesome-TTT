@@ -135,7 +135,8 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [AI for educators](https://learn.microsoft.com/en-us/training/paths/ai-education/) - learn.microsoft.com | This learning path explores the potential of artificial intelligence (AI) in education. It covers a brief history of AI, large language models (LLMs), generative AI, prompt engineering, responsible use of AI, and uses in a class setting. 
 
 ### MOOC - Massive Open Online Courses
-* [edX](https://www.edx.org/) - | edX Online Learning - Explore 4,200+ Courses
+* [edX](https://www.edx.org/) - edx.org | edX Online Learning - Explore 4,200+ Courses
+* [edraak](https://www.edraak.org/) - edraak.org | Edraak, is a massive open online course (MOOC) platform
 
 
 ## Skills Assessment
