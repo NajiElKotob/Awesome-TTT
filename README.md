@@ -46,6 +46,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Quizizz](https://quizizz.com/) 
 * [StreamAlive](https://www.streamalive.com/) - streamalive.com
 * [Wheel of Names](https://wheelofnames.com/) ⭕ - wheelofnames.com
+* [Excalidraw](https://excalidraw.com) - excalidraw.com | Hand-drawn look & feel
 
 ## Learning Delivery Methods
 * Face-to-face training
