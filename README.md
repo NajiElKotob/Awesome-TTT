@@ -168,6 +168,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [How to Plan a Training Class](https://ozar.me/2014/07/plan-training-class/) - Brent Ozar
 * [Using student-centered pedagogy to battle short attention spans](https://resilienteducator.com/classroom-resources/short-attention-span-class-structure/) - Educational research has found that students focus on a single activity from 10-18 minutes, between seven and eight minutes, or even as low as two minutes. 
 * [OECD Future of Education and Skills 2030](https://www.oecd.org/education/2030-project/)
+* [Learn-It-All (Satya Nadella)](https://www.inc.com/marcel-schwantes/satya-nadella-says-3-words-define-successful-people.html) ⭐ - inc.com | Microsoft CEO Satya Nadella Says What Defines Successful People Comes Down to 3 Words
 
 ## Videos
 * [Udacity Talks Episode 11: Amr Awadallah | CTO, Cloudera ~35min](https://www.youtube.com/watch?v=Q1l1t3UN0Qo) ⭐ - Udacity | Keep Learning
