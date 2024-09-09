@@ -133,7 +133,8 @@ If you cannot explain something in simple terms, you don't understand it. The be
 ## Online Learning
 * [Distance learning solutions](https://en.unesco.org/covid19/educationresponse/solutions) - unesco.org
 * [Class Central](https://www.classcentral.com/) - classcentral.com | Find the best courses, wherever they exist
-* [AI for educators](https://learn.microsoft.com/en-us/training/paths/ai-education/) - learn.microsoft.com | This learning path explores the potential of artificial intelligence (AI) in education. It covers a brief history of AI, large language models (LLMs), generative AI, prompt engineering, responsible use of AI, and uses in a class setting. 
+* [AI for educators](https://learn.microsoft.com/en-us/training/paths/ai-education/) - learn.microsoft.com | This learning path explores the potential of artificial intelligence (AI) in education. It covers a brief history of AI, large language models (LLMs), generative AI, prompt engineering, responsible use of AI, and uses in a class setting.
+* [Microsoft Educator Trainer academy](https://learn.microsoft.com/en-us/training/paths/mie-trainer-academy-learning-path/) - The Microsoft Educator Trainer academy is designed for educator trainers and those who are responsible for training educators on the integration of technology in the classroom. 
 
 ### MOOC - Massive Open Online Courses
 * [edX](https://www.edx.org/) - edx.org | edX Online Learning - Explore 4,200+ Courses
