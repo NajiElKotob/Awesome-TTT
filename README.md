@@ -108,6 +108,9 @@ If you cannot explain something in simple terms, you don't understand it. The be
 #### Text to Speech
 * [NaturalReader](https://www.naturalreaders.com/online/) - naturalreaders.com | The #1 text to speech solution for personal, commercial, and educational use
 
+### Fun
+* [Create Yes/No Meme](https://imageresizer.com/meme-generator/edit/no---yes) - imageresizer.com
+  
 -----
 
 ## Hardware
