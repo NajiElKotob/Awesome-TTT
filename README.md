@@ -144,6 +144,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 ### MOOC - Massive Open Online Courses
 * [edX](https://www.edx.org/) - edx.org | edX Online Learning - Explore 4,200+ Courses
 * [edraak](https://www.edraak.org/) - edraak.org | Edraak, is a massive open online course (MOOC) platform
+* [The Open University (Open Learn)](https://www.open.edu/openlearn/free-courses/full-catalogue) - open.edu
 
 
 ## Skills Assessment
