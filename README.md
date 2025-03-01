@@ -132,8 +132,10 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Print Friendly](https://www.printfriendly.com/) - printfriendly.com | Make any web page Print Friendly & PDF
 * [DownGit](https://minhaskamal.github.io/DownGit) - minhaskamal.github.io/DownGit | Create GitHub Resource Download Link
 * [The SketchTheDocs Project](https://sketchthedocs.dev/) - sketchthedocs.dev
-* [Sejda](https://www.sejda.com/pdf-editor) - sejda.com | Fill & sign PDF
 * [World Time Buddy ⌚](https://www.worldtimebuddy.com/) - worldtimebuddy.com
+### PDF
+* [Merge PDF files](https://www.adobe.com/acrobat/online/merge-pdf.html)
+* [Sejda](https://www.sejda.com/pdf-editor) - sejda.com | Fill & sign PDF
 
 ## Online Learning
 * [Distance learning solutions](https://en.unesco.org/covid19/educationresponse/solutions) - unesco.org
