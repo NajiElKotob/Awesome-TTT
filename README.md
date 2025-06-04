@@ -37,6 +37,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * Self-paced Learning: Allowing learners to progress through material at their own pace, catering to individual needs.
 * Flipped Classroom: Learners review content at home, using class time for interactive activities.
 * Discussion Boards: Online platforms where learners can discuss and debate topics, fostering community learning.
+* Public speaking: Speak in cadence.
 
 ## Gamification
 * [Kahoot](http://kahoot.com/) 🌟
