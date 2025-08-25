@@ -92,6 +92,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Cuttly](https://cutt.ly)
 
 ### QR
+* [QR Code Generator](https://www.qr-code-generator.com/)
 * [QR Tiger](https://www.qrcode-tiger.com/) - Make a static QR code with logo for Free!
 * [QR Code Monkey](https://www.qrcode-monkey.com/#vcard) vcard
 
