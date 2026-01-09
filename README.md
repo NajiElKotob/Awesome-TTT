@@ -125,6 +125,7 @@ If you cannot explain something in simple terms, you don't understand it. The be
 * [Kaspersky - Threat Intelligence Portal](https://opentip.kaspersky.com/) - Check any suspicious files, file hashes, IP addresses, and web addresses to validate and prioritize associated security alerts, and ensure timely response to threats.
 * [Captioner](https://webcaptioner.com/captioner) - Supporting Arabic
 * [YouTube Downloader](https://turboscribe.ai/downloader/youtube)
+* [X Video Downloader](https://publer.com/tools/twitter-video-downloader) - publer.com
 * [Filmora FREE Online Video Trimmer](https://filmora.wondershare.com/video-trimmer/) - filmora.wondershare.com | Cut and Trim Videos Online Instantly
 * [Fast](https://fast.com/) - How fast is your download speed? In seconds, FAST.com's simple Internet speed test will estimate your ISP speed.
 * [ZoomIt – A great Zoom tool for presentations](https://hrushikeshzadgaonkar.wordpress.com/2010/05/23/zoomit-a-great-zoom-tool-for-presentations/) 🔍
